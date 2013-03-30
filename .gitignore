@@ -1,0 +1,4 @@
+items.json
+*.pyc
+.DS_Store
+.idea
